@@ -14,3 +14,17 @@ Em casos de adições e/ou edições, por favor abra a *issue* com estas informa
 - Local 
 - Nível 
 - Link
+
+## Programação
+
+| Nome| Local | Nível | Link |
+|------|------|------|------|
+| Criando seu game na Unity (Curso de Jogos) | YouTube - Canal Attekita Dev | Básico | [Acesse aqui](https://youtube.com/playlist?list=PLprgbdnzrDkH4AP7Qv-xKMvuGCMT54y8O) |
+| Programação de games | TIMTec | Intermediário | [Acesse aqui](https://cursos.timtec.com.br/course/dev-jogos/intro) |
+
+
+## Desenho de jogos
+
+| Nome | Local | Nível | Link |
+|------|------|------|------|
+| Desenho de jogos | TIMTec | Intermediário | [Acesse aqui](https://cursos.timtec.com.br/course/desenhodejogos/intro) |
