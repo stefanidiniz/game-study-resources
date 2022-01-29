@@ -15,16 +15,22 @@ Em casos de adições e/ou edições, por favor abra a *issue* com estas informa
 - Nível 
 - Link
 
-## Programação
-
+## Arte
 | Nome| Local | Nível | Link |
 |------|------|------|------|
-| Criando seu game na Unity (Curso de Jogos) | YouTube - Canal Attekita Dev | Básico | [Acesse aqui](https://youtube.com/playlist?list=PLprgbdnzrDkH4AP7Qv-xKMvuGCMT54y8O) |
-| Programação de games | TIMTec | Intermediário | [Acesse aqui](https://cursos.timtec.com.br/course/dev-jogos/intro) |
-
+| Curso Illustrator para jogos | YouTube - Canal Papo de Player | Básico | [Acesse aqui](https://www.youtube.com/playlist?list=PLYOZqxNe79xL_nW5dbvZ6Mjmy3HQAm4px) |
 
 ## Desenho de jogos
 
 | Nome | Local | Nível | Link |
 |------|------|------|------|
 | Desenho de jogos | TIMTec | Intermediário | [Acesse aqui](https://cursos.timtec.com.br/course/desenhodejogos/intro) |
+
+## Programação
+
+| Nome| Local | Nível | Link |
+|------|------|------|------|
+| Criando Roguelike no Construct 2 (ou Construct 3) | YouTube - Canal Marcos Game Dev | Intermediário | [Acesse aqui](https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6) |
+| Criando seu game na Unity (Curso de Jogos) | YouTube - Canal Attekita Dev | Básico | [Acesse aqui](https://youtube.com/playlist?list=PLprgbdnzrDkH4AP7Qv-xKMvuGCMT54y8O) |
+| Curso Grátis - Desenvolvimento de Jogos | YouTube - Canal Papo de Player | Básico | [Acesse aqui](https://www.youtube.com/playlist?list=PLYOZqxNe79xL1Y7yXGZoPED-CNcqTTxJg) |
+| Programação de games | TIMTec | Intermediário | [Acesse aqui](https://cursos.timtec.com.br/course/dev-jogos/intro) |
