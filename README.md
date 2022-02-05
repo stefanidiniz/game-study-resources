@@ -41,3 +41,4 @@ Em casos de adições e/ou edições, por favor abra a *issue* com estas informa
 | Curso Grátis - Desenvolvimento de Jogos | YouTube - Canal Papo de Player | Básico | [Acesse aqui](https://www.youtube.com/playlist?list=PLYOZqxNe79xL1Y7yXGZoPED-CNcqTTxJg) |
 | Desenvolvimento de Games (Intermediário) | Recode | Intermediário | [Acesse aqui](https://recode.org.br/desenvolvimento-de-games-intermediario/) |
 | Programação de games | TIMTec | Intermediário | [Acesse aqui](https://cursos.timtec.com.br/course/dev-jogos/intro) |
+| Como criar um jogo com JavaScript - Flappy Bird do ZERO!!! | YouTube - Canal Dev Soutinho | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej) |
