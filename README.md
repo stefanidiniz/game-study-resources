@@ -22,9 +22,11 @@ Em casos de adições e/ou edições, por favor abra a *issue* com estas informa
 | Desenvolvimento de Games (Básico) | Recode | Básico | [Acesse aqui](https://recode.org.br/desenvolvimento-de-games-basico/) |
 
 ## Arte
+
 | Nome | Local | Nível | Link |
 |------|------|------|------|
 | Curso Illustrator para jogos | YouTube - Canal Papo de Player | Básico | [Acesse aqui](https://www.youtube.com/playlist?list=PLYOZqxNe79xL_nW5dbvZ6Mjmy3HQAm4px) |
+| Tutoriais de Arte e Animação 2D | YouTube - Canal 2Dverse Studio | Básico / Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLFQco0yq7-iUz70BtGrDgU7sQUVagv9Wo) |
 
 ## Desenho de jogos
 
@@ -52,8 +54,10 @@ Em casos de adições e/ou edições, por favor abra a *issue* com estas informa
 | Como criar um jogo com JavaScript - Flappy Bird do ZERO!!! | YouTube - Canal Dev Soutinho | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej) |
 | Criando Roguelike no Construct 2 (ou Construct 3) | YouTube - Canal Marcos Game Dev | Intermediário | [Acesse aqui](https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6) |
 | Criando seu game na Unity (Curso de Jogos) | YouTube - Canal Attekita Dev | Básico | [Acesse aqui](https://youtube.com/playlist?list=PLprgbdnzrDkH4AP7Qv-xKMvuGCMT54y8O) |
+| Criando um jogo de plataforma 2D na Unity | YouTube - Canal Crie Seus Jogos | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLW-9djkTMdfVNJD9aEnoOzkrU8dUoD7j4) |
 | Curso Grátis - Desenvolvimento de Jogos | YouTube - Canal Papo de Player | Básico | [Acesse aqui](https://www.youtube.com/playlist?list=PLYOZqxNe79xL1Y7yXGZoPED-CNcqTTxJg) |
-| Desenvolvimento de Games (Intermediário) | Recode | Intermediário | [Acesse aqui](https://recode.org.br/desenvolvimento-de-games-intermediario/) |
+| Desenvolvimento de Games (Intermediário) | Recode | Básico / Intermediário | [Acesse aqui](https://recode.org.br/desenvolvimento-de-games-intermediario/) |
 | IMD / Programador de Jogos Eletrônicos / Programação Estruturada | YouTube - Canal yes+ | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLh4r1Nccl2fQrlLbt_MxbYFgmLpGq3Vnw) |
+| IMD / Programador de Jogos Eletrônicos / Programação Orientada à Objetos | YouTube - Canal yes+ | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLh4r1Nccl2fRTQhs4NEjwGfYeFEQvFFx1) |
 | Programação de games | TIMTec | Intermediário | [Acesse aqui](https://cursos.timtec.com.br/course/dev-jogos/intro) |
 | Série Jogo na GDevelop | YouTube - Canal Indie Power | Básico | [Acesse aqui](https://youtube.com/playlist?list=PL7ahiqlvDiH6KNA4OfjImx2W0dbqv0X7U) |
