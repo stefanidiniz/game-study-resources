@@ -59,6 +59,7 @@ Em casos de adições e/ou edições, por favor abra a *issue* com estas informa
 | Desenvolvimento de Games (Intermediário) | Recode | Básico / Intermediário | [Acesse aqui](https://recode.org.br/desenvolvimento-de-games-intermediario/) |
 | IMD / Programador de Jogos Eletrônicos / Programação Estruturada | YouTube - Canal yes+ | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLh4r1Nccl2fQrlLbt_MxbYFgmLpGq3Vnw) |
 | IMD / Programador de Jogos Eletrônicos / Programação Orientada à Objetos | YouTube - Canal yes+ | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLh4r1Nccl2fRTQhs4NEjwGfYeFEQvFFx1) |
+| JavaScript Game Developer | Digital Innovation One | Intermediário | [Acesse aqui](https://www.dio.me/bootcamp/javascript-game-developer) |
 | Programação de games | TIMTec | Intermediário | [Acesse aqui](https://cursos.timtec.com.br/course/dev-jogos/intro) |
 | Série Jogo na GDevelop | YouTube - Canal Indie Power | Básico | [Acesse aqui](https://youtube.com/playlist?list=PL7ahiqlvDiH6KNA4OfjImx2W0dbqv0X7U) |
-| Snake Game com JavaScript ( Jogo da Cobrinha )- Programador Br - Ep.29 | Youtube - Canal Programador BR | Intermediário | [Acesse aqui](https://youtu.be/Hua1OSXitdQ) |
+| Snake Game com JavaScript ( Jogo da Cobrinha ) - Programador Br - Ep.29 | Youtube - Canal Programador BR | Intermediário | [Acesse aqui](https://youtu.be/Hua1OSXitdQ) |
