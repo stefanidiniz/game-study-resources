@@ -3,12 +3,12 @@
 ## Objetivo
 Este repositório tem como objetivo tornar mais centralizado e acessível, o acesso de pessoas interessadas à indústria de jogos.
 
-Trazendo recursos gratuitos sobre diversas áreas de atuação no desenvolvimento de jogos digitais em português, criados por diversas pessoas, instituições e empresas espalhadas pela internet :milky_way: .
+Trazendo recursos gratuitos sobre diversas áreas de atuação no desenvolvimento de jogos digitais em português, criados por diversas pessoas, instituições e empresas espalhadas pela internet :earth_americas: .
 
 ## Observações
 Caso queira que seu conteúdo seja adicionado, editado ou removido deste repositório, peço por favor que abra uma *issue* que estaremos adicionando, editando e/ou removendo seu conteúdo, conforme solicitado.
 
-Em casos de adições e/ou edições, por favor abra a *issue* com estas informações:
+Em casos de adições e/ou edições, por favor abra a *issue* ou envie um e-mail para [sdgamedeveloper@gmail.com](mailto:sdgamedeveloper@gmail.com?subject=Adi%C3%A7%C3%A3o/Edi%C3%A7%C3%A3o%20de%20conte%C3%BAdo%20no%20reposit%C3%B3rio%20de%20recursos%20de%20estudos%20de%20jogos) com as seguintes informações:
 
 - Nome
 - Local 
