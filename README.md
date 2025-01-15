@@ -25,6 +25,7 @@ Em casos de adições e/ou edições, por favor abra a *issue* com estas informa
 
 | Nome | Local | Nível | Link |
 |------|------|------|------|
+| Criação de Personagens para Games | TIC em Trilhas | Básico | [Acesse aqui](https://ticemtrilhas.org.br/trail/0aec16b8-ecdf-4bd7-81d0-3b4f25191399) |
 | Curso Illustrator para jogos | YouTube - Canal Papo de Player | Básico | [Acesse aqui](https://www.youtube.com/playlist?list=PLYOZqxNe79xL_nW5dbvZ6Mjmy3HQAm4px) |
 | Tutoriais de Arte e Animação 2D | YouTube - Canal 2Dverse Studio | Básico / Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLFQco0yq7-iUz70BtGrDgU7sQUVagv9Wo) |
 
@@ -39,6 +40,12 @@ Em casos de adições e/ou edições, por favor abra a *issue* com estas informa
 | Nome | Local | Nível | Link |
 |------|------|------|------|
 | 🎮 Curso de Game Design Completo | YouTube - Canal One Day Code | Básico | [Acesse aqui](https://youtube.com/playlist?list=PLGgRtySq3SDP8v4ezAdwaP_DX8NTLAK4i) |
+
+## Modelagem 3D
+
+| Nome | Local | Nível | Link |
+|------|------|------|------|
+| Modelagem 3D para Jogos | TIC em Trilhas | Básico | [Acesse aqui](https://ticemtrilhas.org.br/trail/1c0b0244-d089-49ee-8f64-5b2f407329d3) |
 
 ## Narrativa
 
@@ -57,6 +64,7 @@ Em casos de adições e/ou edições, por favor abra a *issue* com estas informa
 | Criando um jogo de plataforma 2D na Unity | YouTube - Canal Crie Seus Jogos | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLW-9djkTMdfVNJD9aEnoOzkrU8dUoD7j4) |
 | Curso Grátis - Desenvolvimento de Jogos | YouTube - Canal Papo de Player | Básico | [Acesse aqui](https://www.youtube.com/playlist?list=PLYOZqxNe79xL1Y7yXGZoPED-CNcqTTxJg) |
 | Desenvolvimento de Games (Intermediário) | Recode | Básico / Intermediário | [Acesse aqui](https://recode.org.br/desenvolvimento-de-games-intermediario/) |
+| Desenvolvimento de jogos 2D | TIC em Trilhas | Básico | [Acesse aqui](https://ticemtrilhas.org.br/trail/9175d9c2-d089-4680-bbb5-938c0162afc9) |
 | IMD / Programador de Jogos Eletrônicos / Programação Estruturada | YouTube - Canal yes+ | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLh4r1Nccl2fQrlLbt_MxbYFgmLpGq3Vnw) |
 | IMD / Programador de Jogos Eletrônicos / Programação Orientada à Objetos | YouTube - Canal yes+ | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLh4r1Nccl2fRTQhs4NEjwGfYeFEQvFFx1) |
 | JavaScript Game Developer | Digital Innovation One | Intermediário | [Acesse aqui](https://www.dio.me/bootcamp/javascript-game-developer) |
