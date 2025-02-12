@@ -41,6 +41,8 @@ Em casos de adições e/ou edições, por favor abra a *issue* ou envie um e-mai
 | Nome | Local | Nível | Link |
 |------|------|------|------|
 | 🎮 Curso de Game Design Completo | YouTube - Canal One Day Code | Básico | [Acesse aqui](https://youtube.com/playlist?list=PLGgRtySq3SDP8v4ezAdwaP_DX8NTLAK4i) |
+| Curso de Game Design com Davi Baptixta | YouTube - Spgame_Lab | Vários | [Acesse aqui](https://www.youtube.com/playlist?list=PLDYX-0C-43N6_p-KhnHMkYyUsaf8cLOj8) |
+| Guia do Game Designer | Website - Davi Baptixta | Vários | [Acesse aqui](https://baptixta.github.io/guia-do-game-designer/) |
 
 ## Modelagem 3D
 
