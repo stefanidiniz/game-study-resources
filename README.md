@@ -71,3 +71,11 @@ Em casos de adições e/ou edições, por favor abra a *issue* ou envie um e-mai
 | Programação de games | TIMTec | Intermediário | [Acesse aqui](https://cursos.timtec.com.br/course/dev-jogos/intro) |
 | Série Jogo na GDevelop | YouTube - Canal Indie Power | Básico | [Acesse aqui](https://youtube.com/playlist?list=PL7ahiqlvDiH6KNA4OfjImx2W0dbqv0X7U) |
 | Snake Game com JavaScript ( Jogo da Cobrinha ) - Programador Br - Ep.29 | Youtube - Canal Programador BR | Intermediário | [Acesse aqui](https://youtu.be/Hua1OSXitdQ) |
+
+
+## Conteúdos disponibilizados esporadicamente
+
+| Conteúdo | Tipo | Local | Nível | Link |
+|------|------|------|------|------|
+| Design de jogos e programação | Curso | Ocean Brasil | Vários | [Acesse aqui](https://oceanbrasil.com/atividades) |
+| Desenvolvimento de jogos geral | Bootcamp | Soul Code | Vários | [Acesse aqui](https://soulcode.com/) |
