@@ -27,6 +27,7 @@ Em casos de adições e/ou edições, por favor abra a *issue* ou envie um e-mai
 |------|------|------|------|
 | Criação de Personagens para Games | TIC em Trilhas | Básico | [Acesse aqui](https://ticemtrilhas.org.br/trail/0aec16b8-ecdf-4bd7-81d0-3b4f25191399) |
 | Curso Illustrator para jogos | YouTube - Canal Papo de Player | Básico | [Acesse aqui](https://www.youtube.com/playlist?list=PLYOZqxNe79xL_nW5dbvZ6Mjmy3HQAm4px) |
+| Pixel Art Curso Completo (Prática) | YouTube - Renan Silva - Criação de Jogos | Básico | [Acesse aqui](https://www.youtube.com/playlist?list=PLYOZqxNe79xIUDs_xpzpcvFIt0lR5bQ5C) |
 | Tutoriais de Arte e Animação 2D | YouTube - Canal 2Dverse Studio | Básico / Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLFQco0yq7-iUz70BtGrDgU7sQUVagv9Wo) |
 
 ## Desenho de jogos
