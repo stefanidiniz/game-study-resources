@@ -70,6 +70,7 @@ Em casos de adições e/ou edições, por favor abra a *issue* ou envie um e-mai
 | IMD / Programador de Jogos Eletrônicos / Programação Estruturada | YouTube - Canal yes+ | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLh4r1Nccl2fQrlLbt_MxbYFgmLpGq3Vnw) |
 | IMD / Programador de Jogos Eletrônicos / Programação Orientada à Objetos | YouTube - Canal yes+ | Intermediário | [Acesse aqui](https://youtube.com/playlist?list=PLh4r1Nccl2fRTQhs4NEjwGfYeFEQvFFx1) |
 | JavaScript Game Developer | Digital Innovation One | Intermediário | [Acesse aqui](https://www.dio.me/bootcamp/javascript-game-developer) |
+| PONG na Godot 4 - Curso Grátis de Criação de Jogos |YouTube - Canal Desenvolvendo Jogos | Básico | [Acesse aqui](https://www.youtube.com/playlist?list=PLzjwaizNOg6QrTBD6P82sQQ6GTyag2jIh) |
 | Programação de games | TIMTec | Intermediário | [Acesse aqui](https://timtec.com.br/curso/programacao-de-games/) |
 | Série Jogo na GDevelop | YouTube - Canal Indie Power | Básico | [Acesse aqui](https://youtube.com/playlist?list=PL7ahiqlvDiH6KNA4OfjImx2W0dbqv0X7U) |
 
